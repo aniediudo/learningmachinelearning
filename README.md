@@ -15,21 +15,29 @@
 # Community Contributions
 
 ## Beginner
-0. URL to resource: [brief description of content]
--- add your contributions below this line --
+*0. URL to resource: [brief description of content]*
+
+*-- add your contributions below this line --*
+
 1. 
 
 ## Intermediate
-0. URL to resource: [brief description of content]
--- add your contributions below this line --
+*0. URL to resource: [brief description of content]*
+
+*-- add your contributions below this line --*
+
 1. 
 
 ## Advanced
-0. URL to resource: [brief description of content]
--- add your contributions below this line --
+*0. URL to resource: [brief description of content]*
+
+*-- add your contributions below this line --*
+
 1. 
 
 ## Insane
-0. URL to resource: [brief description of content]
--- add your contributions below this line --
+*0. URL to resource: [brief description of content]*
+
+*-- add your contributions below this line --*
+
 1. 
