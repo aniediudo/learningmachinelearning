@@ -13,7 +13,7 @@
 7. TF 2.x on Kaggle (TF Dev Summit '20) - https://bit.ly/lml-006. For some inspiration (& perspiration) from [TF Dev Summit 2020](https://www.tensorflow.org/dev-summit), go further down the rabbit hole and at least watch the keynote on this playlist - https://bit.ly/lml-007
 8. Watch https://bit.ly/lml-008 or https://bit.ly/lml-009 - if you haven't listened to **Jeff Dean** ('Yes, ***"The Jeff Dean"***') speak about The Grand Challenges - https://bit.ly/grn-chl. You can also read this article - https://bit.ly/jd-grn-chl-dn - where his thoughts on *"How AI Can Solve The Grand Challenges"*.
 9. My next best "What is Machine Learning" video would be from **Yufeng Guo** - https://bit.ly/lml-010. You can watch the entire "AI Adventures" series via - https://bit.ly/lml-010p
-10. At this point you should have a firm grasp of "Machine Learning 101". I strongly suggest you bookmark/save/doenload/print this article for past, present & future reference - https://bit.ly/lml-011a or https://bit.ly/lml-011b
+10. At this point you should have a firm grasp of "Machine Learning 101". I strongly suggest you bookmark/save/download/print this article for past, present & future reference - https://bit.ly/lml-011a or https://bit.ly/lml-011b
 
 0. If you haven't done so, subscribe to the **Learning Machine Learning** newsletter to receive regular updates - https://bit.ly/lml-sgn01
 
