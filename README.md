@@ -9,13 +9,13 @@
 3. Search on Google (or your preferred search engine) for "machine learning" - https://www.google.com/search?q=machine+learning&oq=machine+learning (I always do this when learning something knew or whenever I run in to a bug, error message etc. Read at least the top non-ad post.)
 4. Read (or study) the Wikipedia entry for machine learning - https://en.wikipedia.org/wiki/Machine_learning (Don't forget to go down the rabbit hole as much as you can).
 5. Introducing convolutional neural networks: ML Zero to Hero (Part 3) - https://bit.ly/lml-003 (Down the rabbit hole, at least watch Part 4 - https://bit.ly/lml-004x - of this series) 
-6. Learn Python, the most important language for data science & machine learning - https://bit.ly/lml-005 (I prefer Kaggle's introductory courses but the official Python Tutorial, Datacamp, Pluralsight, Udacity, Udemy and a host of others are all excellent resources). So "Why Kaggle? And what is Kaggle?" Your preferred search engine and Wikipedia to the rescue!
+6. Learn Python, the most important language for data science & machine learning - https://bit.ly/lml-005 (I prefer Kaggle's introductory courses but the official **Python Tutorial, Datacamp, Pluralsight, Udacity, Udemy** and a host of others are all excellent resources). So "Why **Kaggle**? And what is Kaggle?" Your preferred search engine and Wikipedia to the rescue!
 7. TF 2.x on Kaggle (TF Dev Summit '20) - https://bit.ly/lml-006. For some inspiration (& perspiration) from [TF Dev Summit 2020](https://www.tensorflow.org/dev-summit), go further down the rabbit hole and at least watch the keynote on this playlist - https://bit.ly/lml-007
-8. Watch https://bit.ly/lml-008 or https://bit.ly/lml-009 - if you haven't listened to **Jeff Dean** ('Yes, ***"The Jeff Dean"***') speak about The Grand Challenges - https://bit.ly/grn-chl. You can also read this article - https://bit.ly/jd-grn-chl-dn - where his thoughts on *"How AI Can Solve The Grand Challenges"*.
-9. My next best "What is Machine Learning" video would be from **Yufeng Guo** - https://bit.ly/lml-010. You can watch the entire "AI Adventures" series via - https://bit.ly/lml-010p
-10. At this point you should have a firm grasp of "Machine Learning 101". I strongly suggest you bookmark/save/download/print this article for past, present & future reference - https://bit.ly/lml-011a or https://bit.ly/lml-011b
+8. Watch https://bit.ly/lml-008 or https://bit.ly/lml-009 - if you haven't listened to **Jeff Dean** ('Yes, ***"The Jeff Dean"***') speak about The Grand Challenges - https://bit.ly/grn-chl. You can also read this article - https://bit.ly/jd-grn-chl-dn - where he shares his thoughts on *"How AI Can Solve The Grand Challenges"*.
+9. My next best "What is Machine Learning" video would be from **Yufeng Guo** - https://bit.ly/lml-010. You can watch the entire *"AI Adventures"* series via - https://bit.ly/lml-010p
+10. At this point you should have a firm grasp of **"Machine Learning 101"**. I strongly suggest you bookmark/save/download/print these articles for past, present & future reference - https://bit.ly/lml-011a or https://bit.ly/lml-011b
 
-0. If you haven't done so, subscribe to the **Learning Machine Learning** newsletter to receive regular updates - https://bit.ly/lml-sgn01
+If you haven't done so, subscribe to the **Learning Machine Learning** newsletter to receive regular updates - https://bit.ly/lml-sgn01
 
 --
 # Community Contributions
