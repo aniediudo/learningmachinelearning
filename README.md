@@ -14,6 +14,8 @@
 8. Watch https://bit.ly/lml-008 or https://bit.ly/lml-009 - if you haven't listened to **Jeff Dean** ('Yes, ***"The Jeff Dean"***') speak about The Grand Challenges - https://bit.ly/grn-chl. You can also read this article - https://bit.ly/jd-grn-chl-dn - where he shares his thoughts on *"How AI Can Solve The Grand Challenges"*.
 9. My next best "What is Machine Learning" video would be from **Yufeng Guo** - https://bit.ly/lml-010. You can watch the entire *"AI Adventures"* series via - https://bit.ly/lml-010p
 10. At this point you should have a firm grasp of **"Machine Learning 101"**. I strongly suggest you bookmark/save/download/print these articles for past, present & future reference - https://bit.ly/lml-011a or https://bit.ly/lml-011b
+11. **Robert John's** "Bite-Sized Machine Learning Series" - Part 1 (https://bit.ly/lml-rbj01), Part 2 (https://bit.ly/lml-rbj02), Part 3 (https://bit.ly/lml-rbj03) are definitely good reads.
+12. In some of the previous resources shared, you may have come across or interacted with **Colab**. "What is Colab?" This playlist - https://bit.ly/lml-012p - should get you started with understanding and using Colab.
 
 If you haven't done so, subscribe to the **Learning Machine Learning** newsletter to receive regular updates - https://bit.ly/lml-sgn01
 
